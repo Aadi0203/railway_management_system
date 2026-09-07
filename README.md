@@ -16,3 +16,11 @@ Payments
 Security
 Databses
 Microservices
+
+Train Scheduling & Live Tracking
+Ticketing & Passenger Reservations
+Station & Platform Operations
+Crew & Workforce Management
+Fleet & Asset Maintenance
+Freight & Logistics Management
+Added more info - Version 1.1
